@@ -2,7 +2,7 @@
 
 <p>Born in 🇨🇴 Colombia, open to new challenges and experiences.</p>
 
-<h1>- 📫 How to reach me: ...</h1>
+<h3>- 📫 How to reach me: ...</h3>
 
 <h3>Backend</h3>
 <p>

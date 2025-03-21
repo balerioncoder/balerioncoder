@@ -4,6 +4,11 @@
 
 <h1>- 📫 How to reach me: ...</h1>
 
+<h3>Backend</h3>
+<p>
+    <img src="https://img.shields.io/badge/JAVA-21-blue?logo=openjdk">
+</p>
+
 <!--
 **balerioncoder/balerioncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

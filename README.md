@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p>Born in 🇨🇴 Colombia, open to new challenges and experiences.</p>
+
+<h1>- 📫 How to reach me: ...</h1>
+
 <!--
 **balerioncoder/balerioncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

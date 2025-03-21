@@ -6,8 +6,7 @@
 
 <h3>Backend</h3>
 <p>
-    <img src="https://img.shields.io/badge/JAVA-21-blue?logo=openjdk">
-     
+    <img src="https://img.shields.io/badge/JAVA-21-blue?logo=openjdk" />
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
